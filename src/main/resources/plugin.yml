@@ -1,0 +1,7 @@
+name: SpawnerTransfer
+version: '${project.version}'
+main: me.h0spq.SpawnerTransfer
+api-version: '1.16'
+commands:
+  spawnertransfer:
+    description: "made by h0spq aka meganz"
